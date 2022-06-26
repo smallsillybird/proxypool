@@ -2,7 +2,7 @@
 domain: smini.cf
 
 # database url
-database_url: ""
+database_url: "smini.cf"
 
 # cloudflare api
 cf_email: "www1@fmini.tk"
