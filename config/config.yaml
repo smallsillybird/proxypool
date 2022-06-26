@@ -1,12 +1,12 @@
 # your domain
-domain: example.com
+domain: smini.cf
 
 # database url
 database_url: ""
 
 # cloudflare api
-cf_email: ""
-cf_key: ""
+cf_email: "www1@fmini.tk"
+cf_key: "e08237165f72afdd40c0e956425ff6d709bd3"
 
 # source definition file
 source-files:
